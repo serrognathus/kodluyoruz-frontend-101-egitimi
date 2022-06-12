@@ -24,6 +24,7 @@ let fullName = "Hakan Yalcinkaya";
 */
 let fullName = "Hakan Yalcinkaya";
 
+
 // let ile tanimlanan degiskenin icindeki bilgiyi degistirmek:
 
 fullName = "Lorem Ipsum Dolor"
